@@ -1,11 +1,13 @@
 # 🧑‍💼🤖 Acting on Behalf of Users and Keeping Agents in Line: Delegation and Governance for Foundry Agents
 
-> *Part 3 of 4 in the series: **Securing Microsoft Foundry Agents with Microsoft Entra ID***
+> *Part 3 of 5 in the series: **Securing Microsoft Foundry Agents with Microsoft Entra ID***
 > 👈 Missed the earlier posts? Start with **Blog 1** (why identity beats API keys) and **Blog 2** (the token flow).
 
 ![level](https://img.shields.io/badge/level-beginner%20to%20intermediate-brightgreen) ![topic](https://img.shields.io/badge/topic-Delegation%20%26%20Governance-blue) ![read](https://img.shields.io/badge/read%20time-12%20min-orange)
 
 ---
+
+![03-delegation-and-governance](../../assets/03-delegation-and-governance.png)
 
 ## 🎬 The Story: Meet HR-Buddy, the Overly Helpful Agent
 
@@ -245,7 +247,7 @@ Something looks wrong with an agent and you need it stopped **now**. Microsoft's
 
 ## 🔮 What's Next?
 
-In the final post, **Blog 4**, we'll put everything together into a **production blueprint**: network and data security, Infrastructure as Code, CI/CD with federated credentials, logging and monitoring with KQL, and an incident-response runbook for when an agent misbehaves. 🏗️🚨
+In the, **Blog 4**, we'll put everything together into a **production blueprint**: network and data security, Infrastructure as Code, CI/CD with federated credentials, logging and monitoring with KQL, and an incident-response runbook for when an agent misbehaves. 🏗️🚨
 
 Until then, may your agents always act on behalf of the right people, and may all your sponsors stay employed! 😄🤖
 
@@ -268,4 +270,4 @@ Until then, may your agents always act on behalf of the right people, and may al
 
 ---
 
-💬 **Enjoyed this post?** Drop a ⭐ on the repo, share it with the teammate whose agent has "access to everything," and see you in the grand finale, Blog 4! 🚀
+💬 **Enjoyed this post?** Drop a ⭐ on the repo, share it with the teammate whose agent has "access to everything," and see you in the , Blog 4! 🚀

@@ -6,6 +6,7 @@
 
 ---
 
+![why-identity-for-agents](../../assets/01-why-identity-for-agents.png)
 ## 🎬 The Hook: The Intern With the Master Key
 
 Imagine you hire a brand-new intern. 🧑‍💼 They are enthusiastic, they work 24/7, they never take a coffee break, and they occasionally make things up with great confidence.
